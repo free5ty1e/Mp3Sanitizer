@@ -31,3 +31,5 @@ Bulk MP3 (and other audio files) Sanitization / Prep Script for Problematic MP3 
 2. Download FFMPEG portable from somewhere like https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip and unzip to an `ffmpeg` folder next to the script.  This folder should have a `bin/ffmpeg` executable.
 3. Launch the PS1 Powershell script, you will see a UI appear
 4. Drag over folder locations as necessary, choose a bitrate, press Start
+
+<img width="928" height="768" alt="image" src="https://github.com/user-attachments/assets/ad8e57d8-bed6-4d9e-8a79-2b99300de44d" />
